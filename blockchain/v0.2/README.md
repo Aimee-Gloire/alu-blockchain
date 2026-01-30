@@ -1,1 +1,1 @@
-blockchain v.02
+blockchain mining
